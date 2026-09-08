@@ -1,0 +1,17 @@
+{
+  "name": "telegram-business-bot",
+  "version": "1.0.0",
+  "description": "Telegram Business chatbot - profilga ulanadigan avtomatik javob bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "telegraf": "^4.16.3"
+  }
+}
